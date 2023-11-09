@@ -1,0 +1,36 @@
+*{
+    
+    background-color: tan;
+}
+.title{
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.container{
+    text-align: center;
+}
+
+.list{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+   font-size: 25px;
+   text-align: left;
+   display: inline-block;
+}
+
+.subtitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.home{
+    text-align: left;
+}
+
+h3, p{
+    text-align: center;
+}
